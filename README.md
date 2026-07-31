@@ -14,11 +14,11 @@ Runs natively in OBS using LuaJIT FFI. No external dependencies or Python requir
 * Windows (The script relies on the `user32` and `kernel32` Windows APIs)
 
 ## Installation
-1. Download `active_namer.lua` from the releases page or clone the repository.
+1. Download `replay_organiser.lua` from the releases page or clone the repository.
 2. Open OBS Studio.
 3. Click on **Tools** > **Scripts** in the top menu.
 4. Click the **+** (plus) icon in the bottom left of the Scripts window.
-5. Locate and select the `active_namer.lua` file.
+5. Locate and select the `replay_organiser.lua` file.
 
 ## Usage & Configuration
 Once added to OBS, the script runs entirely in the background. 
