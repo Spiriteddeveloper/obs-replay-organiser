@@ -30,4 +30,5 @@ Once added to OBS, the script runs entirely in the background.
 Ensure your standard OBS Output filename formatting includes a timestamp (e.g., `%CCYY-%MM-%DD %hh-%mm-%ss`) so clips do not overwrite each other.
 
 ## Inspiration/Credits
-the project I originally was trying to use that didn't work with display capture. if you're using game capture. use this : https://obsproject.com/forum/resources/recording-organizer.2230/
+the project I originally was trying to use that didn't work with display capture. 
+https://obsproject.com/forum/resources/recording-organizer.2230/
