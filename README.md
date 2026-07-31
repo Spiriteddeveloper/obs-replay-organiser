@@ -2,7 +2,7 @@
 
 A lightweight, native Lua script for OBS Studio that automatically renames and organises Replay Buffer clips based on your currently active Windows application. 
 
-Most naming scripts use the obs game capture properties to find the game name which was an issue for me. This script uses native Windows APIs to check your active window directly which lets it work with display capture
+Most naming scripts use the obs game capture properties to find the game name which was an issue for me. This script uses native Windows APIs to check your active window directly which lets it work with display capture.
 
 Runs natively in OBS using LuaJIT FFI. No external dependencies or Python required.
 
