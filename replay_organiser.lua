@@ -67,6 +67,7 @@ function track_active_window()
         local safe_title = clean_filename(title)
         
         if safe_title ~= tracked_game and safe_title ~= "" then
+            tracked_game = safe_title
         end
     end
 end
